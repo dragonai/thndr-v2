@@ -73,7 +73,7 @@ Copy that `http://*.ngrok.io` URL. Almost there!
 
 _(Note: you will be given a new URL every time you start Ngrok, so step 11 will have to be repeated every time as long as you're running Thndr locally. To keep Thndr permanently running, you can deploy it on services such as Heroku, DigitalOcean, et cetera, but that's beyond the scope of this talk.)_
 
-12.) Send a text to your Twilio phone number with something like "Best doughtnuts in Atlanta". If you completed these instructions properly, in a few seconds you'll receive a text back that reads something like this:
+12.) Send a text to your Twilio phone number with something like "Best doughnuts in Atlanta". If you completed these instructions properly, in a few seconds you'll receive a text back that reads something like this:
 
 ```
 Sent from your Twilio trial account - You're looking for Sublime Doughnuts.
